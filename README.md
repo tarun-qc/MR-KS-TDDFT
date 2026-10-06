@@ -747,8 +747,8 @@ small benchmark systems, and independent quantum-chemistry implementations.
 
 ## License
 
-No license is specified in the supplied source. Add an appropriate license
-before distributing the code publicly.
+MIT license is specified in the supplied source. Open learning license
+for distributing the code publicly.
 
 ## Acknowledgement
 
